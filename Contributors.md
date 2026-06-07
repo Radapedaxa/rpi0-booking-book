@@ -19,3 +19,4 @@ This document registry outlines the structural responsibilities and individual c
 * **Arantxa Gamarra** - *Front-End Builder & Technical Writer*
   * **Student ID:** 414855899
   * **Core Responsibilities:** Constructed semantic HTML page directories, configured navigation form element linkages, and drafted administrative system user documentation.
+
